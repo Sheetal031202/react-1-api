@@ -1,0 +1,418 @@
+{
+  "product": [
+    {
+      "id": "102",
+      "name": "Smart Watch",
+      "price": 3999,
+      "stock": 80,
+      "description": "Fitness tracking smartwatch with heart-rate monitor.",
+      "category": "Wearables",
+      "image": "https://picsum.photos/200?random=2"
+    },
+    {
+      "id": "103",
+      "name": "Bluetooth Speaker",
+      "price": 1799,
+      "stock": 150,
+      "description": "Portable speaker with powerful sound output.",
+      "category": "Electronics",
+      "image": "https://picsum.photos/200?random=3"
+    },
+    {
+      "id": "104",
+      "name": "Gaming Mouse",
+      "price": 899,
+      "stock": 200,
+      "description": "Ergonomic gaming mouse with RGB lighting.",
+      "category": "Accessories",
+      "image": "https://picsum.photos/200?random=4"
+    },
+    {
+      "id": "105",
+      "name": "Mechanical Keyboard",
+      "price": 2999,
+      "stock": 95,
+      "description": "Mechanical keyboard with blue switches.",
+      "category": "Accessories",
+      "image": "https://picsum.photos/200?random=5"
+    },
+    {
+      "id": "106",
+      "name": "Running Shoes",
+      "price": 2499,
+      "stock": 100,
+      "description": "Comfortable running shoes for daily workout.",
+      "category": "Footwear",
+      "image": "https://picsum.photos/200?random=6"
+    },
+    {
+      "id": "107",
+      "name": "Backpack",
+      "price": 1299,
+      "stock": 140,
+      "description": "Durable backpack with multiple compartments.",
+      "category": "Bags",
+      "image": "https://picsum.photos/200?random=7"
+    },
+    {
+      "id": "108",
+      "name": "Cotton T-Shirt",
+      "price": 499,
+      "stock": 500,
+      "description": "Soft and breathable cotton t-shirt.",
+      "category": "Clothing",
+      "image": "https://picsum.photos/200?random=8"
+    },
+    {
+      "id": "109",
+      "name": "Jeans",
+      "price": 1499,
+      "stock": 220,
+      "description": "Slim fit stretchable denim jeans.",
+      "category": "Clothing",
+      "image": "https://picsum.photos/200?random=9"
+    },
+    {
+      "id": "110",
+      "name": "Formal Shoes",
+      "price": 2199,
+      "stock": 60,
+      "description": "Elegant formal shoes made with premium leather.",
+      "category": "Footwear",
+      "image": "https://picsum.photos/200?random=10"
+    },
+    {
+      "id": "111",
+      "name": "Smartphone Case",
+      "price": 299,
+      "stock": 300,
+      "description": "Shock-proof smartphone back cover.",
+      "category": "Accessories",
+      "image": "https://picsum.photos/200?random=11"
+    },
+    {
+      "id": "112",
+      "name": "Laptop Stand",
+      "price": 899,
+      "stock": 130,
+      "description": "Adjustable metal laptop stand.",
+      "category": "Office",
+      "image": "https://picsum.photos/200?random=12"
+    },
+    {
+      "id": "113",
+      "name": "Table Lamp",
+      "price": 699,
+      "stock": 90,
+      "description": "Warm LED light table lamp.",
+      "category": "Home",
+      "image": "https://picsum.photos/200?random=13"
+    },
+    {
+      "id": "114",
+      "name": "Office Chair",
+      "price": 5499,
+      "stock": 40,
+      "description": "Comfortable ergonomic office chair.",
+      "category": "Furniture",
+      "image": "https://picsum.photos/200?random=14"
+    },
+    {
+      "id": "116",
+      "name": "Sunglasses",
+      "price": 799,
+      "stock": 180,
+      "description": "UV-protected stylish sunglasses.",
+      "category": "Fashion",
+      "image": "https://picsum.photos/200?random=16"
+    },
+    {
+      "id": "117",
+      "name": "Perfume",
+      "price": 1299,
+      "stock": 70,
+      "description": "Long-lasting fragrance perfume.",
+      "category": "Beauty",
+      "image": "https://picsum.photos/200?random=17"
+    },
+    {
+      "id": "118",
+      "name": "Hair Dryer",
+      "price": 899,
+      "stock": 110,
+      "description": "Compact hair dryer with hot/cold modes.",
+      "category": "Beauty",
+      "image": "https://picsum.photos/200?random=18"
+    },
+    {
+      "id": "119",
+      "name": "Mixer Grinder",
+      "price": 3499,
+      "stock": 45,
+      "description": "750W powerful mixer grinder.",
+      "category": "Kitchen",
+      "image": "https://picsum.photos/200?random=19"
+    },
+    {
+      "id": "121",
+      "name": "Yoga Mat",
+      "price": 799,
+      "stock": 160,
+      "description": "Anti-slip thick yoga mat.",
+      "category": "Fitness",
+      "image": "https://picsum.photos/200?random=21"
+    },
+    {
+      "id": "122",
+      "name": "Dumbbells",
+      "price": 1499,
+      "stock": 100,
+      "description": "Pair of 5kg dumbbells.",
+      "category": "Fitness",
+      "image": "https://picsum.photos/200?random=22"
+    },
+    {
+      "id": "123",
+      "name": "Cricket Bat",
+      "price": 1999,
+      "stock": 75,
+      "description": "Lightweight Kashmir willow cricket bat.",
+      "category": "Sports",
+      "image": "https://picsum.photos/200?random=23"
+    },
+    {
+      "id": "124",
+      "name": "Football",
+      "price": 799,
+      "stock": 140,
+      "description": "Synthetic training football.",
+      "category": "Sports",
+      "image": "https://picsum.photos/200?random=24"
+    },
+    {
+      "id": "125",
+      "name": "Tennis Racket",
+      "price": 2499,
+      "stock": 60,
+      "description": "Lightweight tennis racket for professionals.",
+      "category": "Sports",
+      "image": "https://picsum.photos/200?random=25"
+    },
+    {
+      "id": "126",
+      "name": "Wall Clock",
+      "price": 599,
+      "stock": 200,
+      "description": "Modern design silent wall clock.",
+      "category": "Home",
+      "image": "https://picsum.photos/200?random=26"
+    },
+    {
+      "id": "127",
+      "name": "Flower Vase",
+      "price": 799,
+      "stock": 90,
+      "description": "Decorative ceramic flower vase.",
+      "category": "Home Decor",
+      "image": "https://picsum.photos/200?random=27"
+    },
+    {
+      "id": "128",
+      "name": "LED Strip Light",
+      "price": 499,
+      "stock": 310,
+      "description": "RGB LED strip for room decoration.",
+      "category": "Home Decor",
+      "image": "https://picsum.photos/200?random=28"
+    },
+    {
+      "id": "129",
+      "name": "Photo Frame",
+      "price": 299,
+      "stock": 350,
+      "description": "Wooden photo frame for home decor.",
+      "category": "Home Decor",
+      "image": "https://picsum.photos/200?random=29"
+    },
+    {
+      "id": "130",
+      "name": "Wall Painting",
+      "price": 1499,
+      "stock": 40,
+      "description": "Beautiful abstract wall painting.",
+      "category": "Art",
+      "image": "https://picsum.photos/200?random=30"
+    },
+    {
+      "id": "131",
+      "name": "Baby Toys Set",
+      "price": 999,
+      "stock": 110,
+      "description": "Safe and soft toys for babies.",
+      "category": "Kids",
+      "image": "https://picsum.photos/200?random=31"
+    },
+    {
+      "id": "132",
+      "name": "Board Game",
+      "price": 799,
+      "stock": 95,
+      "description": "Family entertainment board game.",
+      "category": "Kids",
+      "image": "https://picsum.photos/200?random=32"
+    },
+    {
+      "id": "133",
+      "name": "Puzzle Blocks",
+      "price": 599,
+      "stock": 120,
+      "description": "Colorful puzzle learning blocks.",
+      "category": "Kids",
+      "image": "httpsum.photos/200?random=33"
+    },
+    {
+      "id": "134",
+      "name": "Toy Car",
+      "price": 399,
+      "stock": 200,
+      "description": "Mini pull-back toy car.",
+      "category": "Kids",
+      "image": "https://picsum.photos/200?random=34"
+    },
+    {
+      "id": "135",
+      "name": "Soft Teddy Bear",
+      "price": 699,
+      "stock": 170,
+      "description": "Soft and cuddly teddy bear.",
+      "category": "Kids",
+      "image": "https://picsum.photos/200?random=35"
+    },
+    {
+      "id": "136",
+      "name": "Handbag",
+      "price": 1599,
+      "stock": 90,
+      "description": "Stylish women's handbag.",
+      "category": "Fashion",
+      "image": "https://picsum.photos/200?random=36"
+    },
+    {
+      "id": "137",
+      "name": "Leather Wallet",
+      "price": 799,
+      "stock": 150,
+      "description": "Premium leather men's wallet.",
+      "category": "Fashion",
+      "image": "https://picsum.photos/200?random=37"
+    },
+    {
+      "id": "139",
+      "name": "Scarf",
+      "price": 499,
+      "stock": 180,
+      "description": "Warm and stylish winter scarf.",
+      "category": "Fashion",
+      "image": "https://picsum.photos/200?random=39"
+    },
+    {
+      "id": "140",
+      "name": "Wrist Band",
+      "price": 199,
+      "stock": 300,
+      "description": "Sports wrist sweat band.",
+      "category": "Fitness",
+      "image": "https://picsum.photos/200?random=40"
+    },
+    {
+      "id": "141",
+      "name": "Table Fan",
+      "price": 1299,
+      "stock": 70,
+      "description": "High-speed table fan.",
+      "category": "Home Appliances",
+      "image": "https://picsum.photos/200?random=41"
+    },
+    {
+      "id": "142",
+      "name": "Iron Box",
+      "price": 999,
+      "stock": 80,
+      "description": "Non-stick soleplate dry iron.",
+      "category": "Home Appliances",
+      "image": "https://picsum.photos/200?random=42"
+    },
+    {
+      "id": "143",
+      "name": "Electric Kettle",
+      "price": 799,
+      "stock": 110,
+      "description": "Automatic shut-off electric kettle.",
+      "category": "Kitchen",
+      "image": "https://picsum.photos/200?random=43"
+    },
+    {
+      "id": "144",
+      "name": "Toaster",
+      "price": 1399,
+      "stock": 60,
+      "description": "2-slice automatic toaster.",
+      "category": "Kitchen",
+      "image": "https://picsum.photos/200?random=44"
+    },
+    {
+      "id": "145",
+      "name": "Vacum Cleaner",
+      "price": 4499,
+      "stock": 30,
+      "description": "Portable high-suction vacuum cleaner.",
+      "category": "Home Appliances",
+      "image": "https://picsum.photos/200?random=45"
+    },
+    {
+      "id": "146",
+      "name": "Plant Pot",
+      "price": 299,
+      "stock": 200,
+      "description": "Indoor ceramic plant pot.",
+      "category": "Garden",
+      "image": "https://picsum.photos/200?random=46"
+    },
+    {
+      "id": "147",
+      "name": "Garden Tools Set",
+      "price": 999,
+      "stock": 70,
+      "description": "Home gardening tool kit.",
+      "category": "Garden",
+      "image": "https://picsum.photos/200?random=47"
+    },
+    {
+      "id": "148",
+      "name": "LED Bulb",
+      "price": 199,
+      "stock": 600,
+      "description": "9W bright LED bulb.",
+      "category": "Home",
+      "image": "https://picsum.photos/200?random=48"
+    },
+    {
+      "id": "149",
+      "name": "Extension Board",
+      "price": 349,
+      "stock": 180,
+      "description": "4-socket heavy-duty extension board.",
+      "category": "Electronics",
+      "image": "https://picsum.photos/200?random=49"
+    },
+    {
+      "id": "150",
+      "name": "USB Cable",
+      "price": 149,
+      "stock": 500,
+      "description": "Fast charging USB cable.",
+      "category": "Electronics",
+      "image": "https://picsum.photos/200?random=50"
+    }
+  ]
+}
